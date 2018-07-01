@@ -1,1 +1,11 @@
 /* Empty. Add your own CSS if you like */
+
+body{
+  background-color: red;
+}
+
+.me{
+  font-family: 'Droid Sans', sans-serif;
+  font-size: 32px;
+  color: blue;
+}
